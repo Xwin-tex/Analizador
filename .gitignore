@@ -1,0 +1,14 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated HTML files
+*.html
+
+# Zip files
+*.zip
+
+# OS files
+Thumbs.db
+.DS_Store
